@@ -33,9 +33,6 @@ A sleek, modern implementation of the classic Tic-Tac-Toe game featuring an inte
 - **Winner Celebrations**: Animated confetti and victory sequences
 - **Dark Mode Support**: Automatic system preference detection
 
-## 🚀 Live Demo
-
-Experience the game live at: [Your GitHub Pages URL]
 
 ## 🛠️ Installation
 
